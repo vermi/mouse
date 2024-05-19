@@ -1,0 +1,4 @@
+[project]
+name = "Mono's Mouse Maze"
+runtime = "pygame"
+main = "main.py"
